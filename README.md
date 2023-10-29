@@ -1,0 +1,1 @@
+# tactic_java_template_handler_rev
